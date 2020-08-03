@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8304db55ee17b4147b15dd0843a32be1
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 5dd671f84808d483095e10464954d389
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: b4ea6869e8a304d36b39c1b22d20a170
+  - enabled: 1
+    path: Assets/Scenes/Challenge1/Challenge1.unity
+    guid: e35509683b7c447d8b4ae48c06cd8727
+  - enabled: 1
+    path: Assets/Scenes/Challenge1/RightAnswer1.unity
+    guid: dbd9bddc470f54aae9ae8b7c5474561b
+  - enabled: 1
+    path: Assets/Scenes/Challenge1/WrongAnswer1.unity
+    guid: 80ce08888d0774d7d893c50ec99e2847
+  - enabled: 1
+    path: Assets/Scenes/Challenge2/Challenge2.unity
+    guid: 43713e34ff092494584491818b4949e3
+  - enabled: 1
+    path: Assets/Scenes/Challenge2/Right2.unity
+    guid: 93b3c3e4c0b01a44fb94e156cd6c7410
+  - enabled: 1
+    path: Assets/Scenes/Challenge2/Wrong2.unity
+    guid: 484c453557b64f24684e812c50d93770
+  - enabled: 1
+    path: Assets/Scenes/Challenge3/Challenge3.unity
+    guid: bca95e72df151014d95069c35ec4c1fd
+  - enabled: 1
+    path: Assets/Scenes/Challenge3/Right3.unity
+    guid: 6a78fc3f9f4e9d349a083ad2b2083115
+  - enabled: 1
+    path: Assets/Scenes/Challenge3/Wrong3.unity
+    guid: 9693a39326211374fa968a4c262282be
+  - enabled: 1
+    path: Assets/Scenes/Challenge4/challenge4.unity
+    guid: b783103854a294ecea767f64c3eca70b
+  - enabled: 1
+    path: Assets/Scenes/Challenge4/rightanswer4.unity
+    guid: e139280103f2e4f41a7ce9b97e48588e
+  - enabled: 1
+    path: Assets/Scenes/Challenge4/wronganswer4.unity
+    guid: d53516f0919404e4eb5652caf6c2a095
+  - enabled: 1
+    path: Assets/Scenes/Challenge5/Challenge5.unity
+    guid: af7ce0c2d667c114c974c8a8d21111bf
+  - enabled: 1
+    path: Assets/Scenes/stories.unity
+    guid: 11e83ef5f90a24cd2b79fa40ce309a4d
+  - enabled: 1
+    path: Assets/Scenes/Challenge5/Right5.unity
+    guid: ff241b91986bdbc4cb5b1488d6cb3a22
+  - enabled: 1
+    path: Assets/Scenes/Challenge5/Wrong5.unity
+    guid: 6b9a828fff65e714eb16f4cc0f6e0888
+  - enabled: 1
+    path: Assets/Scenes/resources.unity
+    guid: 6c2189d73cda949b19050c850f7681da
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: d3eba3792164cb54994abf283ce61d41
+  m_configObjects: {}
